@@ -10,7 +10,6 @@ class GroundVehicle():
     def drive(self):
         return "vroooom"
 
-
     # TODO
 
 
@@ -27,6 +26,8 @@ class Motorcycle(GroundVehicle):
 
     def drive(self):
         return "BRAAAP!!"
+
+
 # TODO
 
 vehicles = [
